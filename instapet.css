@@ -1,0 +1,18 @@
+body {
+    background-color: rosybrown;
+}
+.centrado {
+    text-align: center;
+}
+.TL {
+    font-size: 150%;
+}
+#TL2 {
+    font-size: 300%;
+}
+h1 {
+    font-family: 'Gluten', cursive;
+}
+#letra {
+    font-family: 'Stick No Bills', sans-serif;
+}
